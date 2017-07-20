@@ -17,11 +17,11 @@
       <img src="img/logo.svg" alt="Pinx" style="width: 66%; max-width: 300px"/>
       <h1>a better way to explore your pins.</h1>
       <?php if(isset($_GET['code'])){ ?>
-      <a href="https://itunes.apple.com/us/app/pinx/id1243677684?ls=1&mt=8">
+      <a href="pinx://authorize?code=<?php echo $_GET['code']; ?>">
         <img src="img/return.svg" alt="return to pinx">
       </a>
       <?php } else { ?>
-      <a href="pinx://authorize?code=<?php echo $_GET['code']; ?>">
+      <a href="https://itunes.apple.com/us/app/pinx/id1243677684?ls=1&mt=8">
         <img src="img/download.svg" alt="">
       </a>
       <?php } ?>
