@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="210px" height="40px" viewBox="0 0 210 40" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 45.2 (43514) - http://www.bohemiancoding.com/sketch -->
+    <title>appstore@1.5x</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <linearGradient x1="2.22044605e-14%" y1="100%" x2="100%" y2="27.9412551%" id="linearGradient-1">
+            <stop stop-color="#FF016E" offset="0%"></stop>
+            <stop stop-color="#FC633A" offset="100%"></stop>
+        </linearGradient>
+    </defs>
+    <g id="Symbols" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="appstore">
+            <g id="bt_login">
+                <rect id="Rectangle" stroke="url(#linearGradient-1)" stroke-width="2" x="1" y="1" width="208" height="38" rx="19"></rect>
+                <g id="Group" transform="translate(0.000000, 10.000000)" font-size="14" font-family="HelveticaNeue-Bold, Helvetica Neue" letter-spacing="0.419999987" fill="#FFFFFF" font-weight="bold">
+                    <text id="RETURN-TO-PINX">
+                        <tspan x="42.9135157" y="14">RETURN TO PINX</tspan>
+                    </text>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>
