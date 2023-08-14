@@ -25,6 +25,15 @@
         <img src="img/download.svg" alt="">
       </a>
       <?php } ?>
+      <p><a id="privacy" href="/privacy-policy">Privacy Policy</a></p>
     </div>
   </body>
+  <style>
+    #privacy {
+      color: white;
+      text-decoration: underline;
+      display: block;
+      padding: 12px 0;
+    }
+  </style>
 </html>
