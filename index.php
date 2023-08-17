@@ -25,7 +25,7 @@
         <img src="img/download.svg" alt="">
       </a>
       <?php } ?>
-      <p><a id="privacy" href="/privacy-policy">Privacy Policy</a></p>
+      <p><a id="privacy" href="/privacy-policy.php">Privacy Policy</a></p>
     </div>
   </body>
   <style>
