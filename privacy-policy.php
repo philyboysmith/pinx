@@ -44,7 +44,6 @@
 <p>Please note that this Privacy Policy only applies to the Website and does not govern any offline activities or interactions.</p>
 
     </div>
-  </body>
   <style>
     a {
       color: white;
@@ -56,4 +55,5 @@
         height: auto;
     }
   </style>
+  </body>
 </html>

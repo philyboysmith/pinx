@@ -24,6 +24,9 @@
       <a href="https://itunes.apple.com/us/app/pinx/id1243677684?ls=1&mt=8">
         <img src="img/download.svg" alt="">
       </a>
+      <a href="https://play.google.com/store/apps/details?id=uk.co.amillionmonkeys.pinx">
+        <img style="height: 40px; width: auto; margin-left: 8px;" src="https://lh3.googleusercontent.com/q1k2l5CwMV31JdDXcpN4Ey7O43PxnjAuZBTmcHEwQxVuv_2wCE2gAAQMWxwNUC2FYEOnYgFPOpw6kmHJWuEGeIBLTj9CuxcOEeU8UXyzWJq4NJM3lg=s0" alt="">
+      </a>
       <?php } ?>
       <p><a id="privacy" href="/privacy-policy">Privacy Policy</a></p>
     </div>
