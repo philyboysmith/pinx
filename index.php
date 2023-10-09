@@ -11,6 +11,8 @@
     <!-- google fonts -->
     <!-- site style -->
     <link href="css/outline.min.css" media="all" rel="stylesheet" type="text/css" />
+    <meta name="apple-itunes-app" content="app-id=1243677684, app-argument=myURL">
+
   </head>
   <body>
     <div class="container">
